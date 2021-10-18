@@ -2,7 +2,7 @@
 
 The program can run using node runtime.To run the code the following command can be entered:
 
-##node mcfTest.js
+## node mcfTest.js
 
 Part 1 of the code defines the function that returns the minimum time and route to reach zoneEnd.
 
